@@ -5,6 +5,6 @@ package springboot.example;
  */
 public class Main {
     public static void main(String[] args) {
-        System.out.println("jij");
+        System.out.println("jij个股");
     }
 }
